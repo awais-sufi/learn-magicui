@@ -3,7 +3,6 @@ import { BellIcon, Share2Icon } from "lucide-react";
 
 import { Calendar } from "@/components/ui/calendar";
 import { cn } from "@/lib/utils";
-// import { AnimatedBeam } from "@/components/magicui/animated-beam";
 import { AnimatedList } from "@/components/magicui/animated-list"
 import { BentoCard, BentoGrid } from "@/components/magicui/bento-grid";
 import { Marquee } from "@/components/magicui/marquee";
